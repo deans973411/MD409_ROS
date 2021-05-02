@@ -1,0 +1,8 @@
+# 關於RLException警示
+## 本文著重於roslaunch部分
+#### **2021/05/02**  
+
+* 輸入 ` roslaunch neuronbot2_gazebo neutonbot2_world.launch ` 出現
+
+主要錯誤碼為 ` is neither a launch file in package ` 及 ` a launch file name The excpetion was written to the log file `
+
