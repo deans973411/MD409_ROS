@@ -7,3 +7,10 @@
     $apt search ros-melodic-turtlesim         #檢查turtle sim是否可以安裝、是否已安裝
     $sudo apt install ros-melodic-turtlesim   #若無則安裝  
 
+├install folder(melodic資料夾)  
+├workspace folder(catkin_ws資料夾)  
+╟build             #利用catkin建立工作環境與需要到檔案  
+╟devel             #msg、srv、head package的程式庫  
+╙src               #package、node的存放區  
+
+我們會利用catkin
