@@ -199,3 +199,5 @@ tip:
 3. ROS各node間互相呼叫是透過topic來輸入指令、讀取訊息甚至藉由`rqt`這個好用的package匯出動態關係圖表、警報或及時控制波型
 4. GUI介面非必要性,透過terminal可以完成GUI介面地所有工作
 5. 若有需要建構地圖或圖像類的package,必須安裝含有`desktop`版本的ROS系統,否則無法順利輸出圖形到display monitor
+6. cmake_package 在建立一次後,後面無法重複操作,其建構完成時的Successfully訊息非常的不明顯,要特別注意一下
+7. 每一個node都會有一個terminal,在僅有小黑窗的系統極為不建議(小黑窗系統僅有`alt+F1~F6`六個視窗),要處理到影像、感測器與node關係開發相當的不便
