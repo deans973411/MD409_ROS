@@ -1,6 +1,18 @@
 # MD409_ROS
-A undergraduate research
+A undergraduate research on Robot Operating System, programing on industrial computer with Lidar Sensor, IMU mod, depth camera and omni-wheel.  
 
+
+## Topic on this device:  
+####  1.Build Hardward Device  
+####  2.Software Environment Create  
+####  3.Connecting Sensor on Ubuntu system  
+####  4.Install ROS system  
+####  5.Setting DDS & QoS  
+####  6.Build Behavior Tree with Topology  
+####  7.Basic Control
+####  8.Computer vision  
+####  9.Neural Network
+---
 自110年01月開始的專題研究
 
 
