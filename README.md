@@ -1,5 +1,5 @@
 # MD409_ROS
-A undergraduate research on Robot Operating System, programing on industrial computer with Lidar Sensor, IMU mod, depth camera and omni-wheel.  
+An undergraduate research on Robot Operating System, programing on industrial computer with Lidar Sensor, IMU mod, depth camera and omni-wheel.  
 
 
 ## Topic on this device:  
